@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kadir</h1>
+<h1 align="center">Hi 👋, I'm kadir</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akadir&show_icons=true" alt="akadir" /> </p>
 
 <p align="center">
 <a href="https://twitter.com/akadir_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akadir_dev" height="20" width="20" /></a>
